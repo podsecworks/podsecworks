@@ -1,6 +1,4 @@
-## About Myself
 
-<!--
 
 # Hello, I'm **Podsecworks** 👋
 
@@ -21,6 +19,7 @@ I’m a Cybersecurity professional with a passion for Technology,Data,Business,&
 ## 🌱 Fun Facts
 - I love reading books.
 - I’m an avid digital strategist.
+  
 
 Thanks for visiting my profile!
 
