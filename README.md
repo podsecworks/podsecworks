@@ -2,15 +2,16 @@
 
 # Hello, I'm **Podsecworks** 👋
 
-I’m a Cybersecurity professional with a passion for Technology,Data,Business,&Cyber. I enjoy working with legacy/emerging technologies and am currently learning Malware Analysis & YARA rules,and,revisiting Data science concepts every now and then
+I’m a Cybersecurity professional with a passion for Technology,Data,Business,&Cyber. I enjoy working with legacy/emerging technologies and revisiting Data science concepts every now and then
 
 ## 🚀 Skills
 - Programming Languages: Powershell, Python, etc.
 - Tools: Git, Docker, etc.
 
 ## 🔧 Projects
-- [Project 1](https://github.com/podsecworks/Multicloud-security-auditing-tool)
-- [Project 2](https://github.com/podsecworks/Zero-Trust-Architecture-Prototype)
+- [Project 1] (https://github.com/podsecworks/Vulnerability-Management-Automation)
+- [Project 2] (https://github.com/podsecworks/Centralized-Risk-Dashboard-with-Real-time-Vulnerability-Data)
+- [Project 3] (https://github.com/podsecworks/Zero-Trust-Architecture-Prototype)
 
 ## 📫 How to reach me
 - LinkedIn: [Your LinkedIn](link)
@@ -24,8 +25,8 @@ I’m a Cybersecurity professional with a passion for Technology,Data,Business,&
 Thanks for visiting my profile!
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Vulnerability Management & Malware analysis
+- 🌱 I’m currently learning ...Malware Analysis
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
