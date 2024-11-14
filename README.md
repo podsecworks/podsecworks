@@ -2,7 +2,7 @@
 
 # Hello, I'm **Podsecworks** 👋
 
-I’m a Cybersecurity professional with a passion for Technology,Data,Business,&Cyber. I enjoy working with legacy/emerging technologies and revisiting Data science concepts every now and then
+I’m a Cybersecurity enthusiast with a passion for Technology,Data,Business,&Cyber. I enjoy working with legacy/emerging technologies and revisiting Data Science principles
 
 ## 🚀 Skills
 - Programming Languages: Powershell, Python, etc.
