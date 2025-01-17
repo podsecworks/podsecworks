@@ -2,10 +2,11 @@
 
 # Hello, I'm **Podsecworks** 👋
 
-I’m a Cybersecurity enthusiast with a passion for Technology,Data,Business,&Cyber. I enjoy working with legacy/emerging technologies and revisiting Data Science principles
+I’m a sagacious work-in-progress cybersecurity pro with a passion for Cyber,Technology,Data,&Business.I enjoy securing legacy/current/emerging technologies and apply Data Science principles as and when required.
+Me = Cybersecurity + AI + Business
 
 ## 🚀 Skills
-- Programming Languages: Powershell, Python, etc.
+- Programming Languages: Bash,Powershell, Python, etc.
 - Tools: Git, Docker, etc.
 
 ## 🔧 Projects
@@ -19,15 +20,15 @@ I’m a Cybersecurity enthusiast with a passion for Technology,Data,Business,&Cy
 
 ## 🌱 Fun Facts
 - I love reading books.
-- I’m an avid digital strategist.
+- I’m an avid Trekker.
   
 
 Thanks for visiting my profile!
 
 
-- 🔭 I’m currently working on ...Vulnerability Management & Malware analysis
+- 🔭 I’m currently working on ...Vulnerability Management & Threat Hunting
 - 🌱 I’m currently learning ...Malware Analysis
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...everything Cyber
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
